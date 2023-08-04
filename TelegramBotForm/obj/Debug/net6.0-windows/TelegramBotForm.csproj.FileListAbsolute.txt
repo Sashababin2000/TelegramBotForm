@@ -1,0 +1,70 @@
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\TelegramBotForm.exe
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\TelegramBotForm.deps.json
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\TelegramBotForm.runtimeconfig.json
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\TelegramBotForm.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\TelegramBotForm.pdb
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\Telegram.Bot.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.csproj.AssemblyReference.cache
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.Form1.resources
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.csproj.GenerateResource.cache
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.AssemblyInfoInputs.cache
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.AssemblyInfo.cs
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.csproj.CoreCompileInputs.cache
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.csproj.CopyComplete
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\refint\TelegramBotForm.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.pdb
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.genruntimeconfig.cache
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\ref\TelegramBotForm.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\Enums.NET.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\NPOI.Core.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\kocmk\Desktop\СВОЁ\Учёба-Программирование\Проекты\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\TelegramBotForm.exe
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\TelegramBotForm.deps.json
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\TelegramBotForm.runtimeconfig.json
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\TelegramBotForm.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\TelegramBotForm.pdb
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\Enums.NET.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\MathNet.Numerics.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Excel.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\NPOI.Core.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\NPOI.OOXML.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\SixLabors.ImageSharp.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\Telegram.Bot.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.csproj.AssemblyReference.cache
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.Form1.resources
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.csproj.GenerateResource.cache
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.AssemblyInfoInputs.cache
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.AssemblyInfo.cs
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.csproj.CoreCompileInputs.cache
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.csproj.CopyComplete
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\refint\TelegramBotForm.dll
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.pdb
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\TelegramBotForm.genruntimeconfig.cache
+C:\Users\zolot\Downloads\Telegram Desktop\TelegramBotForm\TelegramBotForm\TelegramBotForm\obj\Debug\net6.0-windows\ref\TelegramBotForm.dll
