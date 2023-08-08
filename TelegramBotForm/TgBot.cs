@@ -38,6 +38,7 @@ namespace TelegramBotForm
         {
             if (update.Type == UpdateType.Message && update.Message != null && update.Message.Text != null)
             {
+                #region[response processing]
                 var message = update.Message.Text;
                 var us = users.Where(x => x.ChatId == update.Message.Chat.Id).FirstOrDefault();
                 if (us == null)
@@ -183,9 +184,11 @@ namespace TelegramBotForm
 
                     
                 }
+                #endregion
             }
             if (update.Type == UpdateType.CallbackQuery && update.CallbackQuery != null && update.CallbackQuery.Data != null)
             {
+                #region[action processing]
                 var message = update.CallbackQuery.Data;
                 UserChat? us = users.Where(x => x.ChatId == update.CallbackQuery.From.Id).FirstOrDefault();
                 if (us == null)
@@ -243,7 +246,7 @@ namespace TelegramBotForm
                         }
                     }
                 }
-
+                #endregion
             }
 
         }

@@ -19,6 +19,7 @@ namespace TelegramBotForm
 
         private void LoadFile_Click(object sender, EventArgs e)
         {
+            #region[ document upload]
             OpenFileDialog openDialog = new OpenFileDialog();
 
             openDialog.Filter = "Τΰιλ Excel|*.XLSX;*.XLS";
@@ -61,7 +62,7 @@ namespace TelegramBotForm
             }
             StartBot.Visible = true;
             Export.Visible = true;
-
+            #endregion
         }
 
         private void StartBot_Click(object sender, EventArgs e)
@@ -84,32 +85,13 @@ namespace TelegramBotForm
 
         }
 
-        private void Export_ClickOld(object sender, EventArgs e)
-        {
-            DataTable dt = new DataTable();
-
-            using (FileStream stream = new FileStream(@"C:\Working\FieldedAddresses.xlsx", FileMode.Create, FileAccess.Write))
-            {
-                IWorkbook wb = new XSSFWorkbook();
-                ISheet sheet = wb.CreateSheet("Sheet1");
-                ICreationHelper cH = wb.GetCreationHelper();
-                for (int i = 0; i < dt.Rows.Count; i++)
-                {
-                    IRow row = sheet.CreateRow(i);
-                    for (int j = 0; j < 9; j++)
-                    {
-                        ICell cell = row.CreateCell(j);
-                        cell.SetCellValue(cH.CreateRichTextString(dt.Rows[i].ItemArray[j].ToString()));
-                    }
-                }
-                wb.Write(stream);
-            }
-        }
+     
         private void Export_Click(object sender, EventArgs e)
         {
             FolderBrowserDialog folderBrowserDialog1 = new FolderBrowserDialog();
             if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
             {
+                #region[document processing]
                 using (FileStream stream = new FileStream(folderBrowserDialog1.SelectedPath + @"\UsersExport.xlsx", FileMode.Create, FileAccess.Write))
                 {
                     IWorkbook wb = new XSSFWorkbook();
@@ -163,7 +145,7 @@ namespace TelegramBotForm
                     wb.Write(stream);
 
                 }
-                
+                #endregion
             }
         }
     }
